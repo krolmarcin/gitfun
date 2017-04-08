@@ -5,7 +5,11 @@ public class Foo {
     }
 
     void bar2() {
-        System.out.println("hey hey dwa");
+        System.out.println("bar bar");
+    }
+
+    void bar4() {
+
     }
 
 }
