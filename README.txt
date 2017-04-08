@@ -1,1 +1,1 @@
-dupa
+To jest plik tekstowy
